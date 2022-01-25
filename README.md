@@ -17,4 +17,4 @@ git clone https://github.com/Rohanalii/AMIL
 
 cd AMIL
 
-python2 Anil.py
+python2 Amil.py
